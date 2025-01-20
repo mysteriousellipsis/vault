@@ -1,0 +1,10 @@
+{
+  "totalUptime": 6778000,
+  "lastLoad": 1706751530563,
+  "currentSessionDuration": 426000,
+  "showTotalUptimeInStatusBar": true,
+  "displayStaringTimeAsHumanString": true,
+  "staringText": "staring for ",
+  "totalStaringText": "total staring time: ",
+  "pausedText": "you're not staring"
+}

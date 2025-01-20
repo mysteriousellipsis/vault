@@ -1,0 +1,311 @@
+{
+  "main": {
+    "id": "ad4eef813e571915",
+    "type": "split",
+    "children": [
+      {
+        "id": "987405805ae6327b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ab22d952254461e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bf9aebbe9281f342",
+    "type": "split",
+    "children": [
+      {
+        "id": "3bc4c66ced7f37dc",
+        "type": "tabs",
+        "dimension": 62.77292576419214,
+        "children": [
+          {
+            "id": "0cd97a8e4c4543ff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          }
+        ]
+      },
+      {
+        "id": "988b9df35adaed4e",
+        "type": "tabs",
+        "dimension": 37.22707423580786,
+        "children": [
+          {
+            "id": "40365fcebb5eb9a6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 335.51103591918945
+  },
+  "right": {
+    "id": "26b4a2df7ed75779",
+    "type": "split",
+    "children": [
+      {
+        "id": "b76f7538b95ddafb",
+        "type": "tabs",
+        "dimension": 47.86545924967659,
+        "children": [
+          {
+            "id": "744d7b68975de97f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "2b381ce822033139",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "103056f7835e5933",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "5969412f842abb80",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "ba16bf104996d353",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "ded1ed0e314799f1",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "d535c8b8f7e824a3",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "4bb44d11466eeeee",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {},
+              "icon": "lucide-info",
+              "title": "File properties"
+            }
+          },
+          {
+            "id": "bdb4d29efe5b1ebc",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
+            }
+          },
+          {
+            "id": "4d555122f674a8a1",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "ag-style",
+              "title": "Juggl style"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "f26eb81ec974df87",
+        "type": "tabs",
+        "dimension": 52.1345407503234,
+        "children": [
+          {
+            "id": "8a8bfa0d3ab93d55",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "c48cecbe4190f37d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 472.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": true,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "markdown-importer:Open format converter": false,
+      "workspaces:Manage workspace layouts": false,
+      "publish:Publish changes...": true,
+      "random-note:Open random note": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "juggl:Juggl global graph": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "homepage:Open homepage": false,
+      "notion-like-tables:Create loom": false,
+      "youhavebeenstaring-plugin:Start/stop staring counter": false,
+      "obisidian-note-linker:Note Linker": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "5ab22d952254461e",
+  "lastOpenFiles": [
+    "2025-01-20.md",
+    "Excalidraw/Drawing 2025-01-20 13.18.00.excalidraw.md",
+    "Excalidraw/Drawing 2025-01-20 13.17.55.excalidraw.md",
+    "environment.md",
+    "kotlin introduction.md",
+    "Minimum and maximum values.md",
+    "States of matter.md",
+    "PEEL.md",
+    "SST iNC.md",
+    "Logic gates.md",
+    "Ohm's law.md",
+    "kotlin theory.md",
+    "relative atomic mass.md",
+    "Qualitative Analysis.md",
+    "RAM.md",
+    "silly notes X3/electrons.md",
+    "silly notes X3/molecules.md",
+    "silly notes X3/Ions.md",
+    "silly notes X3/neutrons.md",
+    "silly notes X3/protons.md",
+    "silly notes X3/electronic configuration.md",
+    "silly notes X3/Home.md",
+    "silly notes X3/atoms.md",
+    "silly notes X3/atomic theory.md",
+    "silly notes X3/isotopes.md",
+    "silly notes X3/PEEL.md",
+    "git",
+    "Git",
+    "Media/Canvas/the environment as a system.canvas",
+    "Media/earth leakage circuit breaker.png",
+    "Media/mini circuit breaker.png",
+    "Media/Looms/Untitled.loom",
+    "Media/Looms",
+    "Media/fuse.png",
+    "Media/3 pin plug.png",
+    "silly notes X3",
+    "Media/singapore constitution.png",
+    "Media/2024-01-23_15-11-46_HYiDM3Av.png",
+    "Media/Ohms law.png",
+    "Media/bus diagram.png",
+    "Media/buses example.png",
+    "Media/read.png",
+    "Media/Canvas",
+    "Media/Canvas/english as a system.canvas",
+    "Untitled.canvas",
+    "Media/Loom",
+    "Media/Loom/homework.loom",
+    "Untitled.loom",
+    "Notion"
+  ]
+}
